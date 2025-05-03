@@ -1,19 +1,19 @@
 {
   "$schema": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
   "basics": {
-    "name": "Richard Hendriks",
-    "label": "Programmer",
+    "name": "Nabindra Raj Shrestha",
+    "label": "Power Systems researchr",
     "image": "",
-    "email": "richard.hendriks@mail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "**Richard** hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer.\n\nWhile his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "email": "nabindrashrestha10@gmail.com",
+    "phone": "(977) 9860799792",
+    "url": "https://nabindrarajshrestha.com.np",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Kathmandu",
+      "postalCode": "44600",
+      "city": "Kathmandu",
+      "countryCode": "NP",
+      "region": "Bagmati"
     },
     "profiles": [
       {
